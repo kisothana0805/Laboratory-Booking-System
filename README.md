@@ -102,8 +102,8 @@ lab_booking_system/
      - `usage_log`
 
 5. **Login Credentials (Sample):**
-   - Instructor: `ID: INS685ea86` | `Password: 123456`
-   - Lab TO: `ID: TO685eb6fe` | `Password: 987654`
+   - Instructor: `Email: sample@inst.jfn.ac.lk` | `Password: 123456`
+   - Lab TO: `Email: sample@to.jfn.ac.lk` | `Password: 987654`
 
 
 ## 🚀 Future Enhancements
@@ -116,7 +116,7 @@ lab_booking_system/
 
 ## 🧑‍💻 Author
 
-- 👩‍💻 **Kisothana **
+- 👩‍💻 **Kisothana P.**
 - 🏫 3rd Year Computer Engineering Student
 
 ## Contact
