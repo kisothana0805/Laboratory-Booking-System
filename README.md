@@ -120,4 +120,4 @@ lab_booking_system/
 - 🏫 3rd Year Computer Engineering Student
 
 ## Contact
-For any questions or feedback, feel free to reach out via LinkedIn - www.linkedin.com/in/kisothana-bala-03aa1a273
+For any questions or feedback, feel free to reach out via LinkedIn - https://www.linkedin.com/in/kisothanabala/
